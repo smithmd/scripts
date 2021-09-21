@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "$1" ]]; then
-	echo -e "Usage:\n\to: output\n\t\ts: speakers\n\t\th: headphones)";
+	echo -e "Usage:\n\to: output\n\t\ts: speakers\n\t\th: headphones";
 fi
 
 if [ "$1" == "o" ]; then
